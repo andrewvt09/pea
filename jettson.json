@@ -1,0 +1,8 @@
+{
+    "name": "Pea Cash",
+    "description": "Low fee peer-to-peer electronic cash alternative to Bitcoin",
+    "symbol": "PEA",
+    "decimals": 9,
+    "n":"20000000",
+    "image": "https://andrewvt09.github.io/pea/peaimg.png"
+}
